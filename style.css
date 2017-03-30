@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik+Mono+One');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family:'Rubik Mono One', sans-serif;
+}
+.page1 {
+    background: url("http://i.giphy.com/3o6ZsVaPmwch943lqo.gif") no-repeat center center fixed;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align:center;
+}
+
+.page1-title {
+    color: white;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 3.5vmax;
+}
+.home-link {
+    font-size: 1vmax;
+    letter-spacing: 1px;
+    text-decoration:none;
+    color:white;
+}
+a:visited {
+    text-decoration:none;
+    color:white;
+}
+
+.page2 {
+    background: url("http://i.giphy.com/11xtrNUEbG4uL6.gif") no-repeat center center fixed;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.page3 {
+    background: url("http://gph.is/28UGTEO") no-repeat center center fixed;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
